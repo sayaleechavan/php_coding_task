@@ -17,7 +17,9 @@ Check if composer is installed or not and its version
 composer --version
 ```
 PHP 7.3.0
+
 Composer version 2.0.6
+
 Symfony CLI version v4.22.0
 
 
