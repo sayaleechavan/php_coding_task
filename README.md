@@ -1,10 +1,13 @@
 # PHP coding challenge
+For the command line script, I have created symfony console application which can run using command. I have created array to store employee data.
 
+### Assumptions for requirements
+
+Vacation days will be 0 if input year is before their joining year
 
 
 ### Prerequisites
-
-Download and install late php version http://www.php.net/downloads.php.
+Download and install latest php version http://www.php.net/downloads.php.
 
 First install composer https://getcomposer.org/download/
 
@@ -13,6 +16,10 @@ Check if composer is installed or not and its version
 ```
 composer --version
 ```
+PHP 7.3.0
+Composer version 2.0.6
+Symfony CLI version v4.22.0
+
 
 ### Installing
 
